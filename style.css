@@ -5,7 +5,7 @@ html, body {
 }
 
 .container{
- display: grid; 
+display: grid; 
   grid-template-columns: 16rem 1fr 16rem;
   grid-template-rows: auto 1fr auto;
   grid-template-areas:"header header header"
@@ -87,14 +87,14 @@ aside {
 
 aside > p {
   margin: 2.5rem;
- }
+}
 
 #hf{
- height: 4em;
+height: 4em;
 }
 
   main{
-   
+  
   }
 
 footer{
